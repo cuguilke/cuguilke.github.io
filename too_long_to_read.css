@@ -191,7 +191,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 #featured figure {
   border: 2px solid #eee;
   float: right;
-  margin: 0.786em 2em 0 4.5em;
+  margin: 0 0 0 4.5em;
   width: 280px;
 }
 #featured figure img {display: block; float: right;}
